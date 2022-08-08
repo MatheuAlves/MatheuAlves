@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/MatheuAlves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuAlves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&text_color=BBCDCC&title_color=ffffff&custom_title=MatheuAlves' Stats:"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuAlves&layout=compact&langs_count=7&theme=github_dark&text_color=ffffff&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuAlves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&text_color=BBCDCC&title_color=27E7DC&custom_title=MatheuAlves' Stats:&icon_color=27E7DC&border_color=27E7DC&bg_color=45,000000,21262d,21262d,000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuAlves&layout&langs_count=7&theme=github_dark&border_color=27E7DC&text_color=ffffff&title_color=27E7DC&custom_title=MatheuAlves' Top Languages:&bg_color=45,000000,21262d,000000"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
