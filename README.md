@@ -1,7 +1,7 @@
 ### Bem Vindo 👋
 
 - 📚 Estudante de Engenharia da Computação
-- 🥇 Estudando JavaScript
+- 🥇 Estudando Front-End
 
 <div align="center">
   <a href="https://github.com/MatheuAlves">
